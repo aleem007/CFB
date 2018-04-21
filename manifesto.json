@@ -1,0 +1,373 @@
+{
+	"metadata": {
+		"social-media": {
+			"website": "http://citizensforbengaluru.in",
+			"whatsapp": "http://bit.ly/cfbbbs",
+			"facebook": "http://bit.ly/cfbfacebook",
+			"telegram": "http://bit.ly/cfbtelegram",
+			"whatsapp-contact": "+918904067800"
+		}
+	},
+	"data": {
+		"en": [{
+				"category": "Traffic",
+				"principles": [
+					"Prioritize moving people over vehicles",
+					"Incentivize public transport over private transport",
+					"Invest heavily in mass public transport"
+				],
+				"demands": [
+					"Unified Metropolitan Transportation Authority",
+					"Double the bus fleet, halve bus fares",
+					"Add 10 new suburban train routes evey year",
+					"Increase frequency of metro; add coaches",
+					"Integrate public transport with last mile connectivity"
+				]
+			},
+			{
+				"category": "Roads",
+				"principles": [
+					"Hierarchy of road usage is pedestrians, cyclists at the top, followed by public transport and lastly, private transport",
+					"Minimum uniform carriageway with traffic calming signals",
+					"Minimize lifecycle cost of roads"
+				],
+				"demands": [
+					"No signal free elevated corridors within ORR",
+					"No flyovers within ORR",
+					"No potholes, road quality and maintenance to be preemptive",
+					"Restore storm-water and shoulder drains",
+					"Levy parking and congestion charges on private vehicles"
+				]
+			},
+			{
+				"category": "Pedestrians",
+				"principles": [
+					"Build roads around pedestrians, not for vehicles!",
+					"Walkability, accessibility and safety of pedestrians are non-negotiable"
+				],
+				"demands": [
+					"Pedestrians to always cross at grade level",
+					"No Skywalks except on ring roads and highways",
+					"Walk button at all traffic signals",
+					"One-way roads must have traffic calming signal"
+				]
+			},
+			{
+				"category": "Water",
+				"principles": [
+					"Reuse, recharge and conserve Right to Water"
+				],
+				"demands": [
+					"Free lifeline water to every household",
+					"10,000 open wells",
+					"All government and public spaces must have recharge wells",
+					"No tanker mafia",
+					"Lake water should become potable"
+				]
+			},
+			{
+				"category": "Garbage/SWM",
+				"principles": [
+					"All the garbage generated in a ward stays in the ward",
+					"Dignity of labour for all poura karmikas and sanitation workers"
+				],
+				"demands": [
+					"All garbage contracts must mandate segregated waste handling ,Functional dry waste collection centers",
+					"No garbage transport mafia",
+					"Ensure timely and at least minimum wages for contract poura karmikas"
+				]
+			},
+			{
+				"category": "Public spaces",
+				"principles": [
+					"Strive for 40% public space",
+					"Encourage densification and open up more public spaces",
+					"End public urination"
+				],
+				"demands": [
+					"Create 20 vehicle-free pedestrian plazas",
+					"Keep playgrounds and parks open all day",
+					"Impose heavy fines and remove illegal hoardings",
+					"Public toilets clean, accessible and usable by all"
+				]
+			},
+			{
+				"category": "Pollution",
+				"principles": [
+					"Conform to WHO air quality standards"
+				],
+				"demands": [
+					"Stop sewage from entering lakes",
+					"At least one outdoor air quality monitor in every ward",
+					"Ban garbage burning",
+					"Reduce emissions from vehicles",
+					"Set time limits for construction activity, 9AM-6PM",
+					"No trees to be cut without public consultation",
+					"Tree plantation drives in every ward with community ownership"
+				]
+			},
+			{
+				"category": "Health and Sanitation",
+				"principles": [
+					"Sanitation provisioning must precede building plan permission",
+					"Transparency and preventative measures on vector borne diseases",
+					"Dignity of sanitation work"
+				],
+				"demands": [
+					"Zero manual scavenging Must invest in sewage and manhole cleaning machines",
+					"Working STP capacity should be more than daily needs",
+					"Intensify Dengue - chikun gunya-vector control like spraying",
+					"Release actual statistics on dengue, chikungunya etc",
+					"Toilets must be clean, usable, and accessible for all"
+				]
+			},
+			{
+				"category": "Housing",
+				"principles": [
+					"Affordable housing across all wards"
+				],
+				"demands": [
+					"RERA compliance",
+					"No Akrama Sakrama",
+					"Enforce zoning laws",
+					"No building permission without complete process adherence"
+				]
+			},
+			{
+				"category": "Governance",
+				"principles": [
+					"State Government should adhere to the Principle of Subsidiarity ,Decentralize all possible functions to the lowest level",
+					"Political and administrative devolution of powers to BBMP",
+					"Empower ward committees to monitor all ward level works"
+				],
+				"demands": [
+					"All city agencies must report to BBMP",
+					"Separate Act for Bengaluru (zoning and other laws)",
+					"Directly elected Mayor, no Bengaluru Development Minister",
+					"No MLA interference in city governance, cancel MLA LADS"
+				]
+			},
+			{
+				"category": "Citizen's Participation",
+				"principles": [
+					"Corporators are accountable to citizens",
+					"Transparency in all budget allocation spends & project decisions"
+				],
+				"demands": [
+					"Empower Ward Committees",
+					"No veto power for corporator over Ward Committees",
+					"Any project over 10 Crore needs a referendum",
+					"Monthly ward committee meetings must publish budget and spend",
+					"Consult citizens in planning activities"
+				]
+			},
+			{
+				"category": "Planning",
+				"principles": [
+					"Constitutional provisions such as MPC must be paramount",
+					"Plan must be appropriate to scale of area: ward/zone/city/region"
+				],
+				"demands": [
+					"Ward level plans to precede RMP 2031 finalization",
+					"Planning by MPC, not BDA",
+					"Enforce zoning laws",
+					"Devise Bengaluru specific zoning laws"
+				]
+			},
+			{
+				"category": "Inclusivity",
+				"principles": [
+					"Empathy in planning, budgeting, implementation",
+					"All citywide initiatives must be prioritized in favor of most vulnerable, under privileged"
+				],
+				"demands": [
+					"Primacy for Kannada in public signage and documents",
+					"Protect street vendor rights",
+					"Toilets for transgenders",
+					"Disabled-friendly footpaths and public spaces",
+					"Clean and safe Anganwadis and schools"
+				]
+			}
+		],
+		"kn": [{
+				"category": "ಸಂಚಾರ",
+				"principles": [
+					"ವಾಹನಗಳಿಗೆ ಬದಲಾಗಿ ಜನರ ಕಾಲ್ನಡಿಗೆ ಸಂಚಾರಕ್ಕೆ ಆಧ್ಯತೆ ನೀಡಿ",
+					"ಖಾಸಗಿ ಸಾರಿಗೆಯ ದಟ್ಟಣೆ ತಡೆದು ಸಾರ್ವಜನಿಕ  ಸಾರಿಗೆಯನ್ನು  ಉತ್ತೇಜಿಸಿ",
+					"ಸಾರ್ವಜನಿಕ  ಸಾರಿಗೆಯಲ್ಲಿ ಭಾರಿ ಹೂಡಿಕೆ ಮಾಡಿ"
+				],
+				"demands": [
+					"UMTA ಅನ್ನು ಭಾಗಿಧಾರರನ್ನಾಗಿಸಿ",
+					"ಬಸ್ ಗಳ ಸಂಖ್ಯೆಯನ್ನು  ಹೆಚ್ಚಿಸಿ, ಪ್ರಯಾಣ ದರಗಳನ್ನು ಅರ್ಧಕ್ಕಿಳಿಸಿ",
+					"ಪ್ರತಿ ವರ್ಷ 10 ಹೊಸ ಉಪನಗರ ರೈಲು ಮಾರ್ಗಗಳನ್ನು ಸೇರಿಸಿ",
+					"ಮೆಟ್ರೋ ಓಡಾಟವನ್ನು ಹೆಚ್ಚಿಸಿ; ಭೋಗಿಗಳನ್ನು ಹೆಚ್ಚಿಸಿ",
+					"ಕೊನೆಯ ಮೈಲಿ ಸಂಪರ್ಕದೊಂದಿಗೆ ಸಾರ್ವಜನಿಕ ಸಾರಿಗೆಯನ್ನು ಸಂಯೋಜಿಸಿ"
+				]
+			},
+			{
+				"category": "ರಸ್ತೆಗಳು",
+				"principles": [
+					"ರಸ್ತೆ  ಬಳಕೆಯಲ್ಲಿ  ಆದ್ಯತೆ: ಪಾದಚಾರಿಗಳು, ಸೈಕಲ್ ಸವಾರರು, ಸಾರ್ವಜನಿಕ ಸಾರಿಗೆ, ಹಾಗು ಕೊನೆಯದಾಗಿ ಕಾಸಗಿ ವಾಹನಗಳು",
+					"Minimum uniform carriageway with traffic calming signals",
+					"ಉತ್ತಮ ರಸ್ತೆಗಳ ಸುಧಾರಣೆಗೆ ಹೆಚ್ಚು ಒತ್ತು ನೀಡಿ ಮರು ನವೀಕರಣಗಳ ಖರ್ಚನ್ನು ಕಡಿತಗೊಳಿಸಿ"
+				],
+				"demands": [
+					"ORR ಒಳಗೆ ಸಿಗ್ನಲ್ ಮುಕ್ತ ಉದ್ದನೆಯ ಮೇಲ್ಸೇತುವೆಗಳು ಬೇಡ",
+					"ORR ಒಳಗೆ ಯಾವುದೇ ಫ್ಲೈಓವರ್ ಬೇಡ",
+					"ರಸ್ತೆ  ಗುಣಮಟ್ಟ ಸುಧಾರಣಾ ತಂತ್ರಗಳನ್ನು ಸರಿಯಾಗಿ ಮಾಡುವುದು",
+					"ಚರಂಡಿಗಳನ್ನು ಮಳೆ ನೀರು ಹರಿದು ಹೋಗಲು ವ್ಯವಸ್ಥೆಯನ್ನು ಪುನರ್ ಸ್ಥಾಪಿಸಿ",
+					"ಖಾಸಗಿ ವಾಹನಗಳ ಮೇಲೆ ಪಾರ್ಕಿಂಗ್  ಶುಲ್ಕ  ಮತ್ತು ದಟ್ಟಣೆ ಶುಲ್ಕ ವಿಧಿಸಿ"
+				]
+			},
+			{
+				"category": "ಪಾದಚಾರಿಗಳಿಗೆ",
+				"principles": [
+					"ಪಾದಚಾರಿಗಳನ್ನು  ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ರಸ್ತೆಗಳನ್ನು ನಿರ್ಮಿಸಿ. ವಾಹನಗಳಿಗೆ ಅಲ್ಲ!",
+					"ಪಾದಚಾರಿಗಳ ಸುರಕ್ಷತೆ ಯಾವುದೇ ಸಮಾಲೋಚನೆಗೆ ಒಳಗಾಗುವುದಿಲ್ಲ!"
+				],
+				"demands": [
+					"ಪಾದಚಾರಿಗಳು ಗ್ರೇಡ್ ಮಟ್ಟದಲ್ಲಿ ರಸ್ತೆ ದಾಟಲು ವ್ಯವಸ್ಥೆ ",
+					"ಹೊರ ವರ್ತುಲ ರಸ್ತೆ ಹಾಗು ಹೆದ್ದಾರಿಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆಲ್ಲು ಸ್ಕೈವಾಲ್ಕ್ ನಿರ್ಮಿಸುವ ಅಗತ್ಯ ಇಲ್ಲ",
+					"ಎಲ್ಲಾ ಟ್ರಾಫಿಕ್ ಸಿಗ್ನಲ್ಗಳಲ್ಲಿ ವಾಲ್ಕ್ ಬಟನ್",
+					"ಏಕಮುಖ ರಸ್ತೆಗಳಲ್ಲಿ ಸಂಚಾರ ಶಾಂತಗೊಳಿಸುವ ಸಿಗ್ನಲ್ಗಳು ಇರಬೇಕು "
+				]
+			},
+			{
+				"category": "Water",
+				"principles": [
+					"ನೀರಿನ ಮರುಬಳಕೆ, ಪುನರ್ಭರ್ತಿ;ನೀರಿನ ಹಕ್ಕನ್ನು ಸಂರಕ್ಷಿಸಿ"
+				],
+				"demands": [
+					"Free lifeline water to every household",
+					"10,000 open wells",
+					"All government and public spaces must have recharge wells",
+					"No tanker mafia",
+					"Lake water should become potable"
+				]
+			},
+			{
+				"category": "Garbage/SWM",
+				"principles": [
+					"All the garbage generated in a ward stays in the ward",
+					"Dignity of labour for all poura karmikas and sanitation workers"
+				],
+				"demands": [
+					"All garbage contracts must mandate segregated waste handling ,Functional dry waste collection centers",
+					"No garbage transport mafia",
+					"Ensure timely and at least minimum wages for contract poura karmikas"
+				]
+			},
+			{
+				"category": "Public spaces",
+				"principles": [
+					"Strive for 40% public space",
+					"Encourage densification and open up more public spaces",
+					"End public urination"
+				],
+				"demands": [
+					"Create 20 vehicle-free pedestrian plazas",
+					"Keep playgrounds and parks open all day",
+					"Impose heavy fines and remove illegal hoardings",
+					"Public toilets clean, accessible and usa- ble by all"
+				]
+			},
+			{
+				"category": "Pollution",
+				"principles": [
+					"Conform to WHO air quality standards"
+				],
+				"demands": [
+					"Stop sewage from entering lakes",
+					"At least one outdoor air quality monitor in every ward",
+					"Ban garbage burning",
+					"Reduce emissions from vehicles",
+					"Set time limits for construction activi- ty, 9AM-6PM",
+					"No trees to be cut without public consultation",
+					"Tree plantation drives in every ward with community ownership"
+				]
+			},
+			{
+				"category": "Health and Sanitation",
+				"principles": [
+					"Sanitation provisioning must precede building plan permission",
+					"Transparency and preventative measures on vector borne diseases",
+					"Dignity of sanitation work"
+				],
+				"demands": [
+					"Zero manual scavenging Must invest in sewage and manhole cleaning machines",
+					"Working STP capacity should be more than daily needs",
+					"Intensify Dengue - chikun gunya- vec- tor control like spraying",
+					"Release actual statistics on dengue, chikungunya etc",
+					"Toilets must be clean, usable, and ac- cessible for all"
+				]
+			},
+			{
+				"category": "Housing",
+				"principles": [
+					"Affordable housing across all wards"
+				],
+				"demands": [
+					"RERA compliance",
+					"No Akrama Sakrama",
+					"Enforce zoning laws",
+					"No building permission without com- plete process adherence"
+				]
+			},
+			{
+				"category": "Governance",
+				"principles": [
+					"State Government should adhere to the Principle of Subsidiarity ,Decentralize all possible functions to the lowest level",
+					"Political and administrative devolution of powers to BBMP",
+					"Empower ward committees to monitor all ward level works"
+				],
+				"demands": [
+					"All city agencies must report to BBMP",
+					"Separate Act for Bengaluru (zoning and other laws)",
+					"Directly elected Mayor, no Bengaluru Development Minister",
+					"No MLA interference in city governance, cancel MLA LADS"
+				]
+			},
+			{
+				"category": "Citizen's Participation",
+				"principles": [
+					"Corporators are accountable to citizens",
+					"Transparency in all budget allocation spends & project decisions"
+				],
+				"demands": [
+					"Empower Ward Committees",
+					"No veto power for corporator over Ward Committees",
+					"Any project over 10 Crore needs a referendum",
+					"Monthly ward committee meetings must publish budget and spend",
+					"Consult citizens in planning activities"
+				]
+			},
+			{
+				"category": "Planning",
+				"principles": [
+					"Constitutional provisions such as MPC must be paramount",
+					"Plan must be appropriate to scale of area: ward/zone/city/region"
+				],
+				"demands": [
+					"Ward level plans to precede RMP 2031 finalization",
+					"Planning by MPC, not BDA",
+					"Enforce zoning laws",
+					"Devise Bengaluru specific zoning laws"
+				]
+			},
+			{
+				"category": "Inclusivity",
+				"principles": [
+					"Empathy in planning, budgeting, implementation",
+					"All citywide initiatives must be prioritized in favor of most vulnerable, under privileged"
+				],
+				"demands": [
+					"Primacy for Kannada in public signage and documents",
+					"Protect street vendor rights",
+					"Toilets for transgenders",
+					"Disabled-friendly footpaths and public spaces",
+					"Clean and safe Anganwadis and schools"
+				]
+			}
+		]
+	}
+}
